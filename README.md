@@ -1,4 +1,4 @@
-# AtopWebTechnologies_Zaratti-simpleDddCrudApi
+# AtopWebTechnologies-simpleDddCrudApi
 This is a Simple CRUD(Create, Read, Update, Delete) API using Domain Driven Design methodology.
 
 ## operating a Simple DDD CRUD API
