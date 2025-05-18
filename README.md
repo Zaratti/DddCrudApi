@@ -8,7 +8,7 @@ Applying Domain-Driven Design (DDD) software development methodology to write a 
 Here is how to test the API and get confirmation that your API calls are working and giving you the desired feedback.
 
 - Clone the repository
-     - git clone [the simpleDddCrudApi repo](https://github.com/Zaratti/DddCrudApi.git)
+     - git clone [the DddCrudApi repo](https://github.com/Zaratti/DddCrudApi.git)
      - then use _cd DddCrudApi_ to get into the folder.
 
 - Set up the VScode IDE(or any other integrated development environment you use) environment
